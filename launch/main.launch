@@ -1,7 +1,8 @@
 <launch>
-  <param name="/use_sim_time" value="true" />
+  <!-- <param name="/use_sim_time" value="true" />
+    -->
 
-  <!-- start world 
+   <!-- start world 
   <node name="gazebo" pkg="gazebo_ros" type="gazebo"
    args="$(find rosbot_gazebo)/worlds/rosbot.world" respawn="false" output="screen" /> -->
 
